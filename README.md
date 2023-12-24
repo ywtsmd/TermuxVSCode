@@ -2,7 +2,7 @@
 ## Instaling
 1. Set up git
 ```bash
-sudo apt-get install git
+pkg install git
 ```
 2. Clone the git repository
 ```bash
