@@ -11,7 +11,8 @@ cd TermuxVSCode
 ```
 3. Set up VSCode:
 ```bash
-install_vscode.sh
+chmod +x install_vscode.sh
+./install_vscode.sh
 ```
 4. Run VSCode:
 ```bash
